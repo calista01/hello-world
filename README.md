@@ -18,14 +18,8 @@ link 3.
 
 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](![girl](sus)
-)
-```
+![tumblr_e125ad9659b0c4f1fc3be11465c7b1eb_4ac1629c_540](https://user-images.githubusercontent.com/97861241/159647749-66ad26f3-8525-48f9-ab04-0b6d218639b2.gif)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

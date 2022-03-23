@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ethan0x00075v/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+this website is to help those who have a blocker on there pc/laptops/etc.. [link 1](https://sites.google.com/view/sealcentral/sealcraft-v1-5-2?authuser=0) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+if any issue arise on the site report them !clearly! on the google forms page and if there is any ideas or methods to help debug the issue then you should aslo contribute in the google forms ,in the idea section thanks in advance :> [google forms link](https://forms.gle/B4DiAaymVEgZy4tp9) and if you happen to find some more unblocked sites that are availabe for access please put it in the idea section in the list and put NIL in the issue section
 
 ### Markdown
 
